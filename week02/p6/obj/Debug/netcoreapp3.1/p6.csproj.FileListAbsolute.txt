@@ -1,0 +1,12 @@
+C:\Users\서주현\source\repos\C#\week02\p6\bin\Debug\netcoreapp3.1\p6.exe
+C:\Users\서주현\source\repos\C#\week02\p6\bin\Debug\netcoreapp3.1\p6.deps.json
+C:\Users\서주현\source\repos\C#\week02\p6\bin\Debug\netcoreapp3.1\p6.runtimeconfig.json
+C:\Users\서주현\source\repos\C#\week02\p6\bin\Debug\netcoreapp3.1\p6.runtimeconfig.dev.json
+C:\Users\서주현\source\repos\C#\week02\p6\bin\Debug\netcoreapp3.1\p6.dll
+C:\Users\서주현\source\repos\C#\week02\p6\bin\Debug\netcoreapp3.1\p6.pdb
+C:\Users\서주현\source\repos\C#\week02\p6\obj\Debug\netcoreapp3.1\p6.csproj.CoreCompileInputs.cache
+C:\Users\서주현\source\repos\C#\week02\p6\obj\Debug\netcoreapp3.1\p6.AssemblyInfoInputs.cache
+C:\Users\서주현\source\repos\C#\week02\p6\obj\Debug\netcoreapp3.1\p6.AssemblyInfo.cs
+C:\Users\서주현\source\repos\C#\week02\p6\obj\Debug\netcoreapp3.1\p6.dll
+C:\Users\서주현\source\repos\C#\week02\p6\obj\Debug\netcoreapp3.1\p6.pdb
+C:\Users\서주현\source\repos\C#\week02\p6\obj\Debug\netcoreapp3.1\p6.genruntimeconfig.cache
