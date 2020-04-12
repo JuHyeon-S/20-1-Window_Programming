@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\서주현\\source\\repos\\C#\\20-1-Window_Programming\\week03\\W01\\W01.csproj",
-      "projectName": "W01",
-      "projectPath": "C:\\Users\\서주현\\source\\repos\\C#\\20-1-Window_Programming\\week03\\W01\\W01.csproj",
+      "projectUniqueName": "C:\\Users\\서주현\\source\\repos\\C#\\20-1-Window_Programming\\week03\\w01\\w01.csproj",
+      "projectName": "w01",
+      "projectPath": "C:\\Users\\서주현\\source\\repos\\C#\\20-1-Window_Programming\\week03\\w01\\w01.csproj",
       "packagesPath": "C:\\Users\\서주현\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\서주현\\source\\repos\\C#\\20-1-Window_Programming\\week03\\W01\\obj\\",
+      "outputPath": "C:\\Users\\서주현\\source\\repos\\C#\\20-1-Window_Programming\\week03\\w01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\서주현\\AppData\\Roaming\\NuGet\\NuGet.Config",
