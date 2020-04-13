@@ -13,7 +13,7 @@ namespace w01
             numerator = x;
             denominator = y;
         }
-        public string ToString()
+        public new string ToString()
         {
             return numerator + "/" + denominator;
         }
