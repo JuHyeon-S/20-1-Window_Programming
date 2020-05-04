@@ -1,0 +1,12 @@
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week06\w05\bin\Debug\netcoreapp3.1\w05.exe
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week06\w05\bin\Debug\netcoreapp3.1\w05.deps.json
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week06\w05\bin\Debug\netcoreapp3.1\w05.runtimeconfig.json
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week06\w05\bin\Debug\netcoreapp3.1\w05.runtimeconfig.dev.json
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week06\w05\bin\Debug\netcoreapp3.1\w05.dll
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week06\w05\bin\Debug\netcoreapp3.1\w05.pdb
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week06\w05\obj\Debug\netcoreapp3.1\w05.csproj.CoreCompileInputs.cache
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week06\w05\obj\Debug\netcoreapp3.1\w05.AssemblyInfoInputs.cache
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week06\w05\obj\Debug\netcoreapp3.1\w05.AssemblyInfo.cs
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week06\w05\obj\Debug\netcoreapp3.1\w05.dll
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week06\w05\obj\Debug\netcoreapp3.1\w05.pdb
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week06\w05\obj\Debug\netcoreapp3.1\w05.genruntimeconfig.cache
