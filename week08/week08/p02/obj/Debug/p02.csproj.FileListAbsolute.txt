@@ -1,0 +1,10 @@
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\week08\p02\bin\Debug\p02.exe.config
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\week08\p02\bin\Debug\p02.exe
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\week08\p02\bin\Debug\p02.pdb
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\week08\p02\obj\Debug\p02.csprojAssemblyReference.cache
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\week08\p02\obj\Debug\p02.Form1.resources
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\week08\p02\obj\Debug\p02.Properties.Resources.resources
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\week08\p02\obj\Debug\p02.csproj.GenerateResource.cache
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\week08\p02\obj\Debug\p02.csproj.CoreCompileInputs.cache
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\week08\p02\obj\Debug\p02.exe
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\week08\p02\obj\Debug\p02.pdb

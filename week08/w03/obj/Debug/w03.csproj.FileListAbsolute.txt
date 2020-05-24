@@ -1,0 +1,9 @@
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\w03\bin\Debug\w03.exe.config
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\w03\bin\Debug\w03.exe
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\w03\bin\Debug\w03.pdb
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\w03\obj\Debug\w03.Form1.resources
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\w03\obj\Debug\w03.Properties.Resources.resources
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\w03\obj\Debug\w03.csproj.GenerateResource.cache
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\w03\obj\Debug\w03.csproj.CoreCompileInputs.cache
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\w03\obj\Debug\w03.exe
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\w03\obj\Debug\w03.pdb

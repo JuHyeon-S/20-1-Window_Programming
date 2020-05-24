@@ -1,0 +1,9 @@
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\week08\w06\bin\Debug\w06.exe.config
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\week08\w06\bin\Debug\w06.exe
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\week08\w06\bin\Debug\w06.pdb
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\week08\w06\obj\Debug\w06.Form1.resources
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\week08\w06\obj\Debug\w06.Properties.Resources.resources
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\week08\w06\obj\Debug\w06.csproj.GenerateResource.cache
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\week08\w06\obj\Debug\w06.csproj.CoreCompileInputs.cache
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\week08\w06\obj\Debug\w06.exe
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\week08\week08\w06\obj\Debug\w06.pdb
