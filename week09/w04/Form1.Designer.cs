@@ -234,7 +234,7 @@
             this.listBox1.ItemHeight = 30;
             this.listBox1.Location = new System.Drawing.Point(60, 770);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(820, 274);
+            this.listBox1.Size = new System.Drawing.Size(960, 274);
             this.listBox1.TabIndex = 7;
             // 
             // button1
@@ -245,6 +245,7 @@
             this.button1.TabIndex = 8;
             this.button1.Text = "등록";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -254,6 +255,7 @@
             this.button2.TabIndex = 9;
             this.button2.Text = "삭제";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
@@ -263,12 +265,13 @@
             this.button3.TabIndex = 10;
             this.button3.Text = "종료";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(18F, 30F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(962, 1163);
+            this.ClientSize = new System.Drawing.Size(1051, 1298);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
@@ -282,6 +285,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "이수과목 등록";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
