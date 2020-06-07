@@ -16,5 +16,27 @@ namespace p02
         {
             InitializeComponent();
         }
+        private int index, time;
+
+        private void button3_Click(object sender, EventArgs e) => timer1.Stop();
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            index %= imageList1.Images.Count;
+            label1.Image = imageList1.Images[index++];
+            button1.Text = (++time).ToString();
+            progressBar1.Value = index;
+            if (progressBar1.Value > progressBar1.Maximum)
+                progressBar1.Value = 0;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            progressBar1.Value = 0;
+            index = 0;
+            time = 0;
+            progressBar1.Maximum = imageList1.Images.Count;
+            timer1.Start();
+        }
     }
 }

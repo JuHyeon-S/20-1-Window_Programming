@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.imageList1 = new System.Windows.Forms.ImageList(this.components);
             this.label1 = new System.Windows.Forms.Label();
@@ -41,12 +42,20 @@
             // timer1
             // 
             this.timer1.Interval = 1000;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // imageList1
             // 
-            this.imageList1.ColorDepth = System.Windows.Forms.ColorDepth.Depth8Bit;
-            this.imageList1.ImageSize = new System.Drawing.Size(16, 16);
+            this.imageList1.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("imageList1.ImageStream")));
             this.imageList1.TransparentColor = System.Drawing.Color.Transparent;
+            this.imageList1.Images.SetKeyName(0, "ad.png");
+            this.imageList1.Images.SetKeyName(1, "ae.png");
+            this.imageList1.Images.SetKeyName(2, "af.png");
+            this.imageList1.Images.SetKeyName(3, "ag.png");
+            this.imageList1.Images.SetKeyName(4, "ai.png");
+            this.imageList1.Images.SetKeyName(5, "al.png");
+            this.imageList1.Images.SetKeyName(6, "am.png");
+            this.imageList1.Images.SetKeyName(7, "ao.png");
             // 
             // label1
             // 
@@ -73,6 +82,7 @@
             this.button2.TabIndex = 2;
             this.button2.Text = "start";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
@@ -82,12 +92,14 @@
             this.button3.TabIndex = 3;
             this.button3.Text = "stop";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // progressBar1
             // 
             this.progressBar1.Location = new System.Drawing.Point(60, 247);
             this.progressBar1.Name = "progressBar1";
             this.progressBar1.Size = new System.Drawing.Size(896, 62);
+            this.progressBar1.Step = 5;
             this.progressBar1.TabIndex = 4;
             // 
             // Form1
