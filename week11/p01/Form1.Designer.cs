@@ -39,30 +39,33 @@
             this.textBox1.Font = new System.Drawing.Font("굴림", 11F);
             this.textBox1.Location = new System.Drawing.Point(84, 90);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(428, 50);
+            this.textBox1.Size = new System.Drawing.Size(609, 50);
             this.textBox1.TabIndex = 0;
+            this.textBox1.MouseLeave += new System.EventHandler(this.textBox1_MouseLeave);
+            this.textBox1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.textBox1_MouseMove);
             // 
             // textBox2
             // 
             this.textBox2.Font = new System.Drawing.Font("굴림", 11F);
             this.textBox2.Location = new System.Drawing.Point(84, 212);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(428, 50);
+            this.textBox2.Size = new System.Drawing.Size(609, 50);
             this.textBox2.TabIndex = 1;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(606, 89);
+            this.button1.Location = new System.Drawing.Point(818, 90);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(208, 50);
             this.button1.TabIndex = 2;
             this.button1.Text = "reset";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(601, 221);
+            this.label1.Location = new System.Drawing.Point(813, 222);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(173, 30);
             this.label1.TabIndex = 3;
@@ -72,13 +75,15 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(18F, 30F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(930, 450);
+            this.ClientSize = new System.Drawing.Size(1154, 450);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Name = "Form1";
             this.Text = "MousePosintionApp";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.MouseEnter += new System.EventHandler(this.Form1_MouseEnter);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -39,6 +39,7 @@
             this.button1.TabIndex = 0;
             this.button1.Text = "KeyUp";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.KeyUp += new System.Windows.Forms.KeyEventHandler(this.button1_KeyUp);
             // 
             // Form2
             // 

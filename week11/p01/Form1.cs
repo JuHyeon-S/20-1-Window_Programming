@@ -16,5 +16,33 @@ namespace p01
         {
             InitializeComponent();
         }
+
+        int num = 0;
+        private void button1_Click(object sender, EventArgs e)
+        {
+            num = 0;
+            textBox1.Text = num.ToString();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            this.MouseWheel += new MouseEventHandler(this.Form1_MouseWheel);
+        }
+
+        private void Form1_MouseWheel(object sender, MouseEventArgs e)
+        {
+            textBox1.Text = (e.Delta > 0 ? num++ : num--).ToString();
+        }
+
+        private void Form1_MouseEnter(object sender, EventArgs e)
+        {
+            Point mousePoint = PointToClient(MousePosition);
+            string msg = $"Mouse Position : {mousePoint.X}, {mousePoint.Y}";
+            textBox2.Text = msg;
+        }
+
+        private void textBox1_MouseLeave(object sender, EventArgs e) => textBox1.BackColor = Color.DodgerBlue;
+
+        private void textBox1_MouseMove(object sender, MouseEventArgs e) => textBox1.BackColor = Color.AliceBlue;
     }
 }
