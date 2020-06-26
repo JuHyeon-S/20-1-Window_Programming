@@ -1,0 +1,13 @@
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\MusicRecommendation\MusicRecommendation\bin\Debug\MusicRecommendation.exe.config
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\MusicRecommendation\MusicRecommendation\bin\Debug\MusicRecommendation.exe
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\MusicRecommendation\MusicRecommendation\bin\Debug\MusicRecommendation.pdb
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\MusicRecommendation\MusicRecommendation\obj\Debug\MusicRecommendation.csprojAssemblyReference.cache
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\MusicRecommendation\MusicRecommendation\obj\Debug\MusicRecommendation.MusicAdd.resources
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\MusicRecommendation\MusicRecommendation\obj\Debug\MusicRecommendation.MusicFind.resources
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\MusicRecommendation\MusicRecommendation\obj\Debug\MusicRecommendation.MusicList.resources
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\MusicRecommendation\MusicRecommendation\obj\Debug\MusicRecommendation.Properties.Resources.resources
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\MusicRecommendation\MusicRecommendation\obj\Debug\MusicRecommendation.csproj.GenerateResource.cache
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\MusicRecommendation\MusicRecommendation\obj\Debug\MusicRecommendation.csproj.CoreCompileInputs.cache
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\MusicRecommendation\MusicRecommendation\obj\Debug\MusicRecommendation.exe
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\MusicRecommendation\MusicRecommendation\obj\Debug\MusicRecommendation.pdb
+C:\Users\서주현\source\repos\C#\20-1-Window_Programming\MusicRecommendation\MusicRecommendation\obj\Debug\MusicRecommendation.MusicFindResult.resources

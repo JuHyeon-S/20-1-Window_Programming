@@ -1,0 +1,4 @@
+Left & Right;세븐틴;댄스;https://www.youtube.com/watch?v=HdZdxocqzq4
+a;세븐틴;발라드;aaa
+b;세븐틴;댄스;aaa
+c;세븐틴;락;ccc
